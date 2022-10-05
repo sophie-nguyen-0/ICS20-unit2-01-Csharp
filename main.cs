@@ -7,7 +7,7 @@ using System;
 
 class Program
 {
-    public static void Main (string[] args)
+    public static void Main(string[] args)
     {
         Console.WriteLine("hey there world!");
         Console.WriteLine("\nDone.");
