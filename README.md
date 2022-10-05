@@ -1,6 +1,6 @@
 # ICS20-unit2-01-Csharp
 
-[![Mr Coxall's Super Linter](https://github.com/sophie-nguyen-0/ICS20-unit2-01-Csharp/workflows/Mr%20Coxall's%20Super%20Linter/badge.svg)](https://github.com/sophie-nguyen-0/ICS2O-unit1-06-HTML-Favicon/actions/)
+[![Mr Coxall's Super Linter](https://github.com/sophie-nguyen-0/ICS20-unit2-01-Csharp/workflows/Mr%20Coxall's%20Super%20Linter/badge.svg)](https://github.com/sophie-nguyen-0/ICS20-unit2-01-Csharp/actions/)
 
 [![Run on Repl.it](https://repl.it/badge/github/sophie-nguyen-0/ICS20-unit2-01-Csharp)](https://repl.it/github/sophie-nguyen-0/ICS20-unit2-01-Csharp)
 
