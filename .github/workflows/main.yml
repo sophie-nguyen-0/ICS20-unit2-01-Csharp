@@ -3,13 +3,15 @@
 ##################################################
 
 ---
-
 name: Mr Coxall's Super Linter
+
 on: [push, pull_request]
+
 jobs:
   run-linters:
     name: Mr Coxall's Super Linter
     runs-on: ubuntu-latest
+
     steps:
       - name: Check out Git repository
         uses: actions/checkout@main
@@ -20,6 +22,7 @@ jobs:
           # run Prettier and change code that needs fixing, before next section
           prettier_options: --write **/*.{html,css,js,ts,jsx,tsx,json}
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
       - name: Run GitHub Super Linter
         uses: github/super-linter@main
         env:
